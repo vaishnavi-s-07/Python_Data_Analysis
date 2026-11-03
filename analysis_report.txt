@@ -1,0 +1,23 @@
+
+PYTHON DATA ANALYSIS REPORT
+----------------------------
+
+Total Students: 5
+
+Average Marks: 87.2
+
+Highest Marks: 95
+
+Lowest Marks: 78
+
+Total Departments: 3
+
+API Records Retrieved: 10
+
+Data Cleaning: Completed
+
+Data Visualization: Completed
+
+API Integration: Completed
+
+Project Status: Successfully Completed
